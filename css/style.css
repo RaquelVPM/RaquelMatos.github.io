@@ -31,12 +31,12 @@ html, body {
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background-color: #E9F3FE;
+    background-color: #F3F6F4;
 }
 
 header {
     width: 100%;
-    background-color: #326bf1;
+    background-color: #a9c9b1;
 }
 
 .branch, .branch img {
