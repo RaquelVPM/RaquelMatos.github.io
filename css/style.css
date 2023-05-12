@@ -75,7 +75,7 @@ main {width: 100%;}
 .super-card-img img {
     width: 800px;
     border-radius: 70%;
-    display: flex;
+    display: inline;
     justify-content: center;
     align-items: center;
 }
