@@ -10,7 +10,7 @@ body, html {
     height: 100%;
     background-color: #EEE;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
 
     display: flex;
     justify-content: center;
@@ -19,6 +19,10 @@ body, html {
     text-align: justify;
 }
 
+header {
+    width: 100%;
+    background-color: #326bf1;
+}
 
 img{max-width: 100% !important;}
 
