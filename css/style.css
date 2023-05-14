@@ -24,7 +24,7 @@ header {
     background-color: #F3F6F4;
 }
 
-img{max-width: 20% !important;}
+img{max-width: 60% !important;}
 
 h1 {
     font-weight: bold;
@@ -55,7 +55,7 @@ p + p {margin: 15px 0;}
 
 .container {
     width: 400px;
-    padding: 25px;
+    padding: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,11 +74,11 @@ main {
 
 
 section.foto-social {
-    flex: 1 1 50px;
+    flex: 1 1 90px;
 }
 
 section.texto {
-    flex: 1 1 200px;
+    flex: 1 1 100px;
 }
 
 section + section {margin-left: 10px;}
