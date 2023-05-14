@@ -21,15 +21,15 @@ body, html {
 
 header {
     width: 100%;
-    background-color: #326bf1;
+    background-color: #F3F6F4;
 }
 
-img{max-width: 100% !important;}
+img{max-width: 20% !important;}
 
 h1 {
     font-weight: bold;
     font-size: 2.5em;
-    line-height: 4em;
+    line-height: 5em;
     margin: 15px auto;
 }
 
@@ -55,7 +55,7 @@ p + p {margin: 15px 0;}
 
 .container {
     width: 400px;
-    padding: 16px;
+    padding: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
