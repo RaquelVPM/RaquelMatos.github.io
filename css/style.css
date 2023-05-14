@@ -70,7 +70,7 @@ main {
 
 
 section.foto-social {
-    flex: 1 1 100px;
+    flex: 1 1 50px;
 }
 
 section.texto {
@@ -80,9 +80,9 @@ section.texto {
 section + section {margin-left: 10px;}
 
 .foto {
-    width: 300px;
-    height: 300px;
-    margin: 150%;
+    width: 100px;
+    height: 100px;
+    margin: 100%;
     border-radius: 50%;
 }
 
