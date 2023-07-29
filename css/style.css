@@ -78,7 +78,7 @@ section.foto-social {
 }
 
 section.texto {
-    flex: 1 1 100px;
+    flex: 1 1 auto;
 }
 
 section + section {margin-left: 10px;}
